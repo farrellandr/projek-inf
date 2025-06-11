@@ -50,6 +50,11 @@ p.par2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+li {
+     text-align: center;
+     font-weight: bold;
+     font-family: "Times new roman", Times, serif;
+}
 
 a href { 
      text-align: center;
