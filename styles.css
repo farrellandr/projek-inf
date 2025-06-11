@@ -1,6 +1,6 @@
 /* Place your CSS styles in this file */
 body {
-     background-color: ghostWhite;
+     background-color: darkbrown;
     
 }
 ul { 
@@ -55,6 +55,3 @@ a href {
      text-align: center;
 }
 
-div {
-     align: center
-}
