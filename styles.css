@@ -1,6 +1,7 @@
 /* Place your CSS styles in this file */
-body {background-color:cmyk(85,208,219);
-
+body {
+     background-color: rgb(38, 204, 201);
+    
 }
 ul { 
     list-style-type: none;
